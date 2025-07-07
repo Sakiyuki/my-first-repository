@@ -12,4 +12,6 @@ Important steps for git workflow:
 
 ## Table of Contents
 
+# I made a few changes here.
+
 - example_file.txt
